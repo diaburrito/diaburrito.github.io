@@ -1,6 +1,9 @@
-body{
+h1 {
+    	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
+body {
 	position: center;
-	background-color: orange;
-	color: white;
-	font-size: 20
+	background-color: #FF8800;
+	color: #FFFFFF;
+	font-size: 20 
+	font-family: Arial;
 }
