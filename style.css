@@ -1,9 +1,12 @@
-h1 {
-    	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif }
 body {
 	position: center;
 	background-color: #FF8800;
 	color: #FFFFFF;
-	font-size: 200% 
-	font-family: Arial;
+	font-family: Arial }
+h1 {
+    	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+	font-size: 200%
+}
+p {
+	font-size: 100%;
 }
